@@ -1,2 +1,2 @@
 # LLM-fine-tuning
-Kangnam Univ. finals Team Project
+finals Team Project
